@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LexiiDark27
-- 👀 I’m interested in Music, videogames, coding and video editing
+- 👀 I’m interested in music, videogames, coding and video editing
 - 🌱 I’m currently learning how to use WorldEdit
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @ldarkx27 on Discord
